@@ -1,0 +1,6 @@
+{
+  "name": "immobilier-app",
+  "stage": "dev",
+  "region": "eu-west-3",
+  "lint": true
+}
